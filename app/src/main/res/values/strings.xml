@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-SHOPPING</string>
+    <string name="title_activity_shop__navigate">Shop_Navigate</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_account">Account</string>
+    <string name="title_Orders">Orders</string>
+</resources>
